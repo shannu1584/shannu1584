@@ -10,15 +10,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/roshanrahman/roshanrahman/master/girl-coding.gif" width="300" alt="Girl Coding">
-</p>
-
-
-
-
----
-
 ### 🧩 Who Am I?
 
 Hi! I'm Shanmukha — a tech enthusiast passionate about transforming data into actionable insights.\
