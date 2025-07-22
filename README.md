@@ -11,8 +11,9 @@
 
 ---
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/248646973-e41fa93f-89df-45ff-9bb2-98c6e6f6e5c3.png" width="300" alt="Professional Coding Girl">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/main/coding.gif" width="300" alt="Coding Girl Illustration">
 </p>
+
 
 
 ---
