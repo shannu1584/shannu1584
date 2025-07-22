@@ -11,7 +11,8 @@
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="250" alt="Coding Girl GIF">
+ <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250" alt="Girl Coding">
+
 
 </p>
 
@@ -108,11 +109,11 @@ Includes Iris Classification, Unemployment Analysis, and Car Price Prediction\
 ---
 
 ### 🔗 Let’s Connect
-
+<p align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shanmukha-pradeepthi-karri-090a44289)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/shannu1584)
 [![CodeChef](https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/shanmu4430)
-
+</p>
 ---
 
 <p align="center"><i>“The more you code, the more you learn. Let’s keep growing together!” 🌱</i></p>
