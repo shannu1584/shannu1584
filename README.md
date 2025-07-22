@@ -120,9 +120,4 @@ Includes Iris Classification, Unemployment Analysis, and Car Price Prediction\
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+GitHub+profile!+%F0%9F%99%8F;Let%E2%80%99s+connect+and+build+awesome+projects+together!+%F0%9F%9A%80" alt="Thank You Typing SVG">
-</p>
-
-
-
+**<p align="center"><i>“The more you code, the more you learn. Let’s keep growing together!” 🌱</i></p>**
