@@ -102,12 +102,27 @@ Includes Iris Classification, Unemployment Analysis, and Car Price Prediction\
 
 ### 🔗 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shanmukha-pradeepthi-karri-090a44289)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/shannu1584)
-[![CodeChef](https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/shanmu4430)
+<p align="center">
+  <a href="https://linkedin.com/in/shanmukha-pradeepthi-karri-090a44289">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/shannu1584">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.codechef.com/users/shanmu4430">
+    <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef" alt="CodeChef" />
+  </a>
+  <a href="https://leetcode.com/u/shanmu4430/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  </a>
+  <a href="https://www.instagram.com/shannu__karri/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+GitHub+profile!+%F0%9F%99%8F;Let%E2%80%99s+connect+and+build+awesome+projects+together!+%F0%9F%9A%80" alt="Thank You Typing SVG">
+</p>
 
-<p align="center"><i>“The more you code, the more you learn. Let’s keep growing together!” 🌱</i></p>
 
 
