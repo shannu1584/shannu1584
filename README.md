@@ -1,89 +1,114 @@
-<h1 align="center">✨ Hi there 👋, I'm Karri Shanmukha Pradeepthi ✨</h1>
-
+<!-- PROFILE HEADER -->
+<h2 align="center">Hey there 👋, I'm Karri Shanmukha Pradeepthi</h2>
 <p align="center">
-  🎓 B.Tech CSE (Data Science) @ SITE'26 | 📊 Data Analyst in Progress | 💻 Python Enthusiast  
-  <br><br>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  🎓 CSE (Data Science) @ SITE'26 &nbsp;|&nbsp; 💻 ML Explorer & Data Analyst in Progress  
+  <br>
+  <a href="https://shannu1584.github.io/Portfolio/">🌐 Portfolio</a> • 
+  <a href="https://github.com/shannu1584">GitHub</a> • 
+  <a href="mailto:shanmukha1584@gmail.com">Email</a> • 
+  <a href="https://linkedin.com/in/shanmukha-pradeepthi-karri-090a44289">LinkedIn</a>
 </p>
 
 ---
 
-### 🌟 About Me
+### 🧩 Who Am I?
 
-Hey! I'm **Shanmukha**, a final-year B.Tech student majoring in **Computer Science & Data Science**.  
-I’m passionate about **analyzing data**, building **ML models**, and **creating impactful projects** that solve real-world problems.
+Hi! I'm Shanmukha — a tech enthusiast passionate about transforming data into actionable insights.  
+I blend programming, analytics, and creativity to build projects that speak for themselves.
 
-- 🌱 Currently Exploring: Machine Learning | Tableau | SQL | NLP  
-- 💬 Ask Me About: Python | C | HTML & CSS | Git & GitHub  
-- 📫 Reach Me: [shanmukha1584@gmail.com](mailto:shanmukha1584@gmail.com)  
-- 🌐 [Portfolio Website](https://shannu1584.github.io/Portfolio/) | 📄 [Resume](https://drive.google.com/file/d/1ZMssPPAfXdIhgrl6uNdpnfGt6rWVTBtD/view?usp=drive_link)  
-- ⚡ Fun fact: I believe every dataset has a story, and I love decoding it! 📊📚
-
----
-
-### 💻 Tech Stack & Tools
-
-| Languages       | Web Development       | Databases        | Tools & Platforms       |
-|------------------|------------------------|-------------------|--------------------------|
-| Python, C, Java  | HTML, CSS, JavaScript | MySQL, MongoDB    | VS Code, Google Colab, Git |
+- 📍 Based in: Andhra Pradesh, India  
+- 📈 Strong in: Python, Data Visualization, and Problem Solving  
+- 🎯 Goal: To become a skilled Data Scientist & contribute to impactful solutions  
+- ✨ Motto: “Learn it. Build it. Share it.”
 
 ---
 
-### 🧠 Soft Skills
+### 🛠 Tech Stack
 
-🗣 Communication • 🤝 Teamwork • 🧩 Problem Solving • ⏳ Time Management • 🚀 Quick Learning
+**Languages**:  
+`Python` | `C` | `Java (Basics)`
 
----
+**Web**:  
+`HTML` | `CSS` | `JavaScript (Basics)`
 
-### 🔥 Featured Projects
+**Databases**:  
+`MySQL` | `MongoDB (Basics)`
 
-- 🔹 **[My Portfolio](https://shannu1584.github.io/Portfolio/)** – A personal website built with HTML, CSS & JS  
-- 🔹 **Housing Market Trends** – Interactive dashboards using **Tableau** to visualize house sale prices  
-- 🔹 **OIBSIP ML Projects** – [Iris Classification, Car Price Prediction, Unemployment Analysis](https://github.com/shannu1584/OIBSIP)
-
----
-
-### 💼 Internships
-
-- 🤖 **AI-ML Virtual Internship** – AICTE, Eduskills  
-- 📈 **Data Science Intern** – Nyera Edutech (MSME-recognized)  
-- 📊 **Oasis Infobyte** – ML Projects with Python and scikit-learn
+**Tools**:  
+`VS Code` | `Google Colab` | `Git & GitHub`
 
 ---
 
-### 📜 Certifications
+### 📂 Projects
 
-| Certification                             | Platform               |
-|-------------------------------------------|-------------------------|
-| The Joy of Computing using Python         | NPTEL                  |
-| Data Analytics Job Simulation             | Deloitte                |
-| Machine Learning Internship               | SkillDzire              |
-| Data Science Internship                   | Oasis Infobyte          |
-| AI-ML Virtual Internship                  | AICTE, Eduskills        |
-| Getting Started with Data                 | IBM SkillsBuild         |
+🖥️ **Portfolio Website**  
+Designed and built a personal portfolio using HTML, CSS, and JS  
+🔗 [Visit Here](https://shannu1584.github.io/Portfolio/)
+
+📊 **Housing Market Trends – Tableau**  
+Visualized sales price trends with interactive dashboards
+
+🧠 **Oasis Infobyte ML Projects**  
+Includes Iris Classification, Unemployment Analysis, and Car Price Prediction  
+🔗 [View Repository](https://github.com/shannu1584/OIBSIP)
 
 ---
 
-### 📈 GitHub Stats
+### 💼 Experience
+
+- 👩‍💻 **AI-ML Virtual Intern** – AICTE Eduskills  
+- 📈 **Data Science Intern** – Nyera Edutech (MSME)  
+- 📊 **ML Projects** – Oasis Infobyte
+
+---
+
+### 🎓 Education
+
+- 🏫 **B.Tech in CSE (Data Science)** – Sasi Institute of Tech & Engg  
+  2022 – 2026 | CGPA: 9.08  
+- 📘 Intermediate (MPC) – Aditya Jr. College | 94%  
+- 📗 SSC – Bhashyam Public School | 99%
+
+---
+
+### 🏅 Certifications
+
+- 🟡 Joy of Computing with Python – *NPTEL*  
+- 🟢 Data Analytics Job Simulation – *Deloitte*  
+- 🔵 AI-ML Internship – *AICTE Eduskills*  
+- 🟣 Machine Learning – *SkillDzire*  
+- ⚪ Getting Started with Data – *IBM SkillsBuild*  
+- 🔘 Data Science Internship – *Oasis Infobyte*
+
+---
+
+### 💡 Soft Skills
+
+✅ Communication | ✅ Teamwork | ✅ Time Management  
+✅ Problem Solving | ✅ Adaptability | ✅ Curiosity
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shannu1584&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shannu1584&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannu1584&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shannu1584&show_icons=true&theme=tokyonight" alt="stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shannu1584&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannu1584&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🌐 Let’s Connect
+### 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shanmukha-pradeepthi-karri-090a44289)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/shannu1584)
-[![CodeChef](https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/shanmu4430)
+- 💼 [LinkedIn](https://linkedin.com/in/shanmukha-pradeepthi-karri-090a44289)  
+- 🧠 [GitHub](https://github.com/shannu1584)  
+- 🌐 [Portfolio](https://shannu1584.github.io/Portfolio/)  
+- ✉️ [Email Me](mailto:shanmukha1584@gmail.com)
 
 ---
 
-_Thanks for visiting my profile! Let’s build, learn, and grow together!_ 🌱
-
+<p align="center"><i>“The more you code, the more you learn. Let’s keep growing together!” 🌱</i></p>
 
