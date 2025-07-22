@@ -11,7 +11,8 @@
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250" alt="Coding Girl GIF">
+  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="250" alt="Coding Girl GIF">
+
 </p>
 
 ---
