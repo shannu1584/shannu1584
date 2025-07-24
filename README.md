@@ -93,7 +93,8 @@ Includes Iris Classification, Unemployment Analysis, and Car Price Prediction\
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shannu1584&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shannu1584&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanmukha-pradeepthi-karri&theme=radical" alt="Github Streak"/>
+
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannu1584&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
