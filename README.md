@@ -1,107 +1,93 @@
 <!-- PROFILE HEADER -->
-<h2 align="center">Hey there 👋, I'm Karri Shanmukha Pradeepthi</h2>
+<h2 align="center">🚀 Hey there, I'm <span style="color:#0099ff">Karri Shanmukha Pradeepthi</span> 👋</h2>
+
 <p align="center">
-  🎓 CSE (Data Science) @ SITE'26 &nbsp;|&nbsp; 💻 ML Explorer & Data Analyst  
+  🎓 CSE (Data Science) @ SITE'26 &nbsp;|&nbsp; 🧠 ML & Data Science Enthusiast  
   <br>
   <a href="https://shannu1584.github.io/Portfolio/">🌐 Portfolio</a> • 
-  <a href="https://github.com/shannu1584">GitHub</a> • 
-  <a href="mailto:shanmukha1584@gmail.com">Email</a> • 
-  <a href="https://linkedin.com/in/shanmukha-pradeepthi-karri-090a44289">LinkedIn</a>
+  <a href="https://github.com/shannu1584">🐙 GitHub</a> • 
+  <a href="mailto:shanmukha1584@gmail.com">📩 Email</a> • 
+  <a href="https://linkedin.com/in/shanmukha-pradeepthi-karri-090a44289">🔗 LinkedIn</a>
 </p>
 
 ---
-### 🧩 Who Am I?
 
-Hi! I'm Shanmukha — a tech enthusiast passionate about transforming data into actionable insights.\
-I blend programming, analytics, and creativity to build projects that speak for themselves.
+### 👩‍💻 About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26">
 
-- 📍 Based in: Andhra Pradesh, India  
-- 📈 Strong in: Python, Data Cleaning, Data Visualization, and Problem Solving  
-- 🎯 Goal: To become a skilled Data Scientist & contribute to impactful solutions  
-- ✨ Motto: “Learn it. Build it. Share it.”
+Hi, I'm <b>Karri Shanmukha Pradeepthi</b> — a <b>Data Science enthusiast</b> and aspiring <b>ML Engineer</b> from 🇮🇳 India!  
+I’m passionate about using technology to turn data into meaningful stories.  
 
----
-
-### 🛠 Tech Stack
-
-**Languages**:\
-`Python` | `C` | `Java (Basics)`
-
-**Web**:\
-`HTML` | `CSS` | `JavaScript (Basics)`
-
-**Databases**:\
-`MySQL` | `MongoDB (Basics)`
-
-**Tools**:\
-`VS Code` | `Google Colab` | `Git & GitHub`
+💡 **What drives me?**
+- 🎓 CSE (Data Science) @ SITE'26  
+- 🧠 Exploring ML, Data Analytics & NLP  
+- 🛠️ Building meaningful projects with creativity and code  
+- 🚀 Lifelong Learner & Collaborative Builder  
+- ✨ Motto: <i>“Learn it. Build it. Share it.”</i>
 
 ---
 
-### 📂 Projects
+### 🧠 Tech Stack & Tools
 
-🖥️ **Portfolio Website**\
-Designed and built a personal portfolio using HTML, CSS, and JS\
-🔗 [Visit Here](https://shannu1584.github.io/Portfolio/)
-
-📊 **Housing Market Trends – Tableau**\
-Visualized sales price trends with interactive dashboards
-
-🧠 **Oasis Infobyte ML Projects**\
-Includes Iris Classification, Unemployment Analysis, and Car Price Prediction\
-🔗 [View Repository](https://github.com/shannu1584/OIBSIP)
+| 💻 Languages     | 🌐 Web Tech           | 🗄️ Databases         | 🛠️ Tools              |
+|------------------|----------------------|----------------------|------------------------|
+| `Python` 🐍      | `HTML` 🌐            | `MySQL` 🐬            | `VS Code` 🧑‍💻         |
+| `C` 🔵           | `CSS` 🎨             | `MongoDB` 🍃 (Basics) | `Google Colab` ☁️     |
+| `Java` ☕ (Basics)| `JavaScript` ⚡ (Basics)|                     | `Git & GitHub` 🐙     |
 
 ---
 
-### 💼 Experience
+---
 
-- 🤖 **AI-ML Virtual Intern** – AICTE Eduskills  
-- 📈 **Data Science Intern** – Nyera Edutech (MSME)  
-- 📊 **ML Projects** – Oasis Infobyte
+### 📂 My Projects
+
+Here are a few standout projects I've worked on:
+
+- 🖥️ **[Portfolio Website](https://shannu1584.github.io/Portfolio/)**  
+  Built using **HTML, CSS, JavaScript** to showcase my journey, skills, and projects in one place.
+
+- 📊 **Housing Market Trends – Tableau**  
+  Analyzed and visualized real estate data with **interactive dashboards** and trend charts.
+
+- 🤖 **[Machine Learning Projects – Oasis Infobyte](https://github.com/shannu1584/OIBSIP)**  
+  ✅ *Iris Classification*  
+  ✅ *Unemployment Analysis*  
+  ✅ *Car Price Prediction*  
+
+- 🛡️ **Fake Job Posting Detection (Ongoing)**  
+  Leveraging **Machine Learning & NLP** to identify fraudulent job ads using real-time datasets.
+
+- 📄 **Resume Scanner using NLP**  
+  Streamlit app to parse resumes and extract structured insights using **SpaCy, NLTK**.
 
 ---
 
-### 🎓 Education
+### 💼 Experience Timeline
 
-- 🏫 **B.Tech in CSE (Data Science)** – Sasi Institute of Tech & Engg  
-  2022 – 2026 | CGPA: 9.08  
-- 📘 Intermediate (MPC) – Aditya Jr. College | 94%  
-- 📗 SSC – Bhashyam Public School | 99%
+- 🎯 **AI-ML Virtual Intern** — *AICTE Eduskills*  
+  _Worked on supervised ML models and project building using Python._
+
+- 📈 **Data Science Intern** — *Nyera Edutech (MSME)*  
+  _Explored data wrangling, visualization, and business insights generation._
+
+- 💡 **ML Project Intern** — *Oasis Infobyte*  
+  _Built multiple ML models using real-world datasets._
 
 ---
 
 ### 🏅 Certifications
 
-- 🟡 Joy of Computing with Python – *NPTEL*  
-- 🟢 Data Analytics Job Simulation – *Deloitte*  
-- 🔵 AI-ML Internship – *AICTE Eduskills*  
-- 🟣 Machine Learning – *SkillDzire*  
-- ⚪ Getting Started with Data – *IBM SkillsBuild*  
-- 🔘 Data Science Internship – *Oasis Infobyte*
-
----
-
-### 💡 Soft Skills
-
-✅ Communication | ✅ Teamwork | ✅ Time Management  
-✅ Problem Solving | ✅ Adaptability | ✅ Curiosity
-
----
-
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shannu1584&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanmukha-pradeepthi-karri&theme=radical" alt="Github Streak"/>
-
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannu1584&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/NPTEL-Joy of Computing with Python-orange?style=for-the-badge&logo=python" alt="NPTEL Python"/>
+  <img src="https://img.shields.io/badge/Deloitte-Data Analytics Simulation-blue?style=for-the-badge&logo=deloitte"/>
+  <img src="https://img.shields.io/badge/AICTE-AI ML Internship-red?style=for-the-badge&logo=aicte"/>
+  <img src="https://img.shields.io/badge/SkillDzire-Machine Learning-purple?style=for-the-badge&logo=sklearn"/>
+  <img src="https://img.shields.io/badge/IBM-Getting Started with Data-lightgrey?style=for-the-badge&logo=ibm"/>
+  <img src="https://img.shields.io/badge/Oasis Infobyte-Data Science Internship-darkgreen?style=for-the-badge&logo=data"/>
 </p>
 
 ---
 
-### 🔗 Let’s Connect
+### 🔗 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/shanmukha-pradeepthi-karri-090a44289">
@@ -116,9 +102,17 @@ Includes Iris Classification, Unemployment Analysis, and Car Price Prediction\
   <a href="https://leetcode.com/u/shanmu4430/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   </a>
-  <a href="https://www.instagram.com/shannu__karri/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://shannu1584.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-website-ff69b4?style=for-the-badge&logo=web" alt="Portfolio" />
   </a>
 </p>
 
-**<p align="center"><i>“The more you code, the more you learn. Let’s keep growing together!” 🌱</i></p>**
+---
+
+### 🙏 Thank You!
+
+<p align="center">
+  <i>Thanks for visiting my profile!<br>Let’s learn, collaborate, and grow together in this amazing world of data! 📊🚀</i><br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&width=435&lines=Happy+Coding!+%F0%9F%92%BB;Stay+Curious+%F0%9F%92%A1;Connect+%26+Collaborate+%F0%9F%91%8D" alt="Typing SVG" />
+</p>
+
