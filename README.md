@@ -45,19 +45,15 @@ Here are a few standout projects I've worked on:
 - 🖥️ **[Portfolio Website](https://shannu1584.github.io/Portfolio/)**  
   Built using **HTML, CSS, JavaScript** to showcase my journey, skills, and projects in one place.
 
-- 📊 **Housing Market Trends – Tableau**  
+- 📊 **[Housing Market Trends – Tableau](https://github.com/shannu1584/Visualizing-Housing-Market-Trends-An-Analysis-of-Sale-Prices-and-Features-using-Tableau)**  
   Analyzed and visualized real estate data with **interactive dashboards** and trend charts.
 
-- 🤖 **[Machine Learning Projects – Oasis Infobyte](https://github.com/shannu1584/OIBSIP)**  
+- 🤖 **[Data Science Projects – Oasis Infobyte](https://github.com/shannu1584/OIBSIP)**  
   ✅ *Iris Classification*  
   ✅ *Unemployment Analysis*  
   ✅ *Car Price Prediction*  
 
-- 🛡️ **Fake Job Posting Detection (Ongoing)**  
-  Leveraging **Machine Learning & NLP** to identify fraudulent job ads using real-time datasets.
 
-- 📄 **Resume Scanner using NLP**  
-  Streamlit app to parse resumes and extract structured insights using **SpaCy, NLTK**.
 
 ---
 
@@ -77,12 +73,12 @@ Here are a few standout projects I've worked on:
 ### 🏅 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NPTEL-Joy of Computing with Python-orange?style=for-the-badge&logo=python" alt="NPTEL Python"/>
-  <img src="https://img.shields.io/badge/Deloitte-Data Analytics Simulation-blue?style=for-the-badge&logo=deloitte"/>
-  <img src="https://img.shields.io/badge/AICTE-AI ML Internship-red?style=for-the-badge&logo=aicte"/>
-  <img src="https://img.shields.io/badge/SkillDzire-Machine Learning-purple?style=for-the-badge&logo=sklearn"/>
-  <img src="https://img.shields.io/badge/IBM-Getting Started with Data-lightgrey?style=for-the-badge&logo=ibm"/>
-  <img src="https://img.shields.io/badge/Oasis Infobyte-Data Science Internship-darkgreen?style=for-the-badge&logo=data"/>
+  <img src="https://drive.google.com/file/d/1GqZHbCxGALZuSyP6iiS8bMn5L9zmGVCL/view?usp=drive_link" alt="NPTEL Python"/>
+  <img src="https://drive.google.com/file/d/1Ewfw5R93yK1ddI430D3Cw_pMqOiNqIZO/view?usp=drive_link"/>
+  <img src="https://drive.google.com/file/d/1ZMssPPAfXdIhgrl6uNdpnfGt6rWVTBtD/view?usp=drive_link"/>
+  <img src="https://drive.google.com/file/d/1hGKf9PShBMQRmHDINfczICm78Yjss2EG/view?usp=drive_link"/>
+  <img src="https://drive.google.com/file/d/1JIuxgb9H0fK-SGH4cbYEMHKWiSUjCf0w/view?usp=drive_link"/>
+  <img src="https://drive.google.com/file/d/1048r7VFGoP6rKv9AfSFmFf-kuoK6fLi5/view?usp=drive_link"/>
 </p>
 
 ---
