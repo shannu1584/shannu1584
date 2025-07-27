@@ -70,18 +70,42 @@ Here are a few standout projects I've worked on:
 
 ---
 
+---
+
 ### 🏅 Certifications
 
+- 🟡 [Joy of Computing with Python – *NPTEL*](https://drive.google.com/file/d/1GqZHbCxGALZuSyP6iiS8bMn5L9zmGVCL/view?usp=drive_link)  
+- 🟢 [Data Analytics Job Simulation – *Deloitte*](https://drive.google.com/file/d/1Ewfw5R93yK1ddI430D3Cw_pMqOiNqIZO/view?usp=drive_link)  
+- 🔵 [AI-ML Internship – *AICTE Eduskills*](https://drive.google.com/file/d/1ZMssPPAfXdIhgrl6uNdpnfGt6rWVTBtD/view?usp=drive_link)  
+- 🟣 [Machine Learning – *SkillDzire*](https://drive.google.com/file/d/1hGKf9PShBMQRmHDINfczICm78Yjss2EG/view?usp=drive_link)  
+- ⚪ [Getting Started with Data – *IBM SkillsBuild*](https://drive.google.com/file/d/1JIuxgb9H0fK-SGH4cbYEMHKWiSUjCf0w/view?usp=drive_link)  
+- 🔘 [Data Science Internship – *Oasis Infobyte*](https://drive.google.com/file/d/1048r7VFGoP6rKv9AfSFmFf-kuoK6fLi5/view?usp=drive_link)
+
+---
+
+### 💡 Soft Skills
+
 <p align="center">
-  <img src="https://drive.google.com/file/d/1GqZHbCxGALZuSyP6iiS8bMn5L9zmGVCL/view?usp=drive_link" alt="NPTEL Python"/>
-  <img src="https://drive.google.com/file/d/1Ewfw5R93yK1ddI430D3Cw_pMqOiNqIZO/view?usp=drive_link"/>
-  <img src="https://drive.google.com/file/d/1ZMssPPAfXdIhgrl6uNdpnfGt6rWVTBtD/view?usp=drive_link"/>
-  <img src="https://drive.google.com/file/d/1hGKf9PShBMQRmHDINfczICm78Yjss2EG/view?usp=drive_link"/>
-  <img src="https://drive.google.com/file/d/1JIuxgb9H0fK-SGH4cbYEMHKWiSUjCf0w/view?usp=drive_link"/>
-  <img src="https://drive.google.com/file/d/1048r7VFGoP6rKv9AfSFmFf-kuoK6fLi5/view?usp=drive_link"/>
+  ✅ Communication &nbsp;&nbsp;&nbsp; ✅ Teamwork &nbsp;&nbsp;&nbsp; ✅ Time Management  
+  <br>
+  ✅ Problem Solving &nbsp;&nbsp;&nbsp; ✅ Adaptability &nbsp;&nbsp;&nbsp; ✅ Curiosity  
 </p>
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shannu1584&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shannu1584&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannu1584&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+
 
 ### 🔗 Connect With Me
 
